@@ -194,7 +194,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHtiXnrz9lkR5upwnhG0-109" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;权限分配&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="rHtiXnrz9lkR5upwnhG0-109" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户权限&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="965" y="407" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
