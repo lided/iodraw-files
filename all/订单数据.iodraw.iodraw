@@ -162,8 +162,8 @@
         <mxCell id="rHtiXnrz9lkR5upwnhG0-89" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1112" y="225" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rHtiXnrz9lkR5upwnhG0-90" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1122" y="235" width="120" height="80" as="geometry" />
+        <mxCell id="rHtiXnrz9lkR5upwnhG0-90" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;加入时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="314" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
