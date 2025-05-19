@@ -199,7 +199,7 @@
         <mxCell id="rHtiXnrz9lkR5upwnhG0-109" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;分配权限&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="759.5" y="529" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dLdpLbsSRKiZoAWCCcTu-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;内部用户信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;订单数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1235" y="429" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
