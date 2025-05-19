@@ -308,8 +308,14 @@
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;预测结果&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1663" y="803" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dLdpLbsSRKiZoAWCCcTu-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;订单数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="989.5" y="635" width="120" height="60" as="geometry" />
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;城市热度分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="658" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;重量分布范围&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="783" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-40" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;重量分布范围&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="921" y="777" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
