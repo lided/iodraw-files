@@ -329,8 +329,8 @@
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;城市名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="741" y="755" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dLdpLbsSRKiZoAWCCcTu-45" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;城市名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="751" y="765" width="120" height="80" as="geometry" />
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-45" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;指数平滑预测&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;结果&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="865" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-46" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;移动平均预测&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;结果&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="897" y="977" width="120" height="80" as="geometry" />
