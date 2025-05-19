@@ -212,7 +212,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;出发城市&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="268" width="120" height="80" as="geometry" />
+          <mxGeometry x="1552" y="251" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;到达城市&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1476" y="415" width="120" height="80" as="geometry" />
@@ -232,11 +232,14 @@
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;预计到达日期&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1464" y="915" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dLdpLbsSRKiZoAWCCcTu-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="dLdpLbsSRKiZoAWCCcTu-11" target="dLdpLbsSRKiZoAWCCcTu-1">
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="dLdpLbsSRKiZoAWCCcTu-11" target="dLdpLbsSRKiZoAWCCcTu-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;出发日期&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1609" y="142" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="dLdpLbsSRKiZoAWCCcTu-12" target="dLdpLbsSRKiZoAWCCcTu-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;实际送达与预期差值&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="305" width="120" height="80" as="geometry" />
