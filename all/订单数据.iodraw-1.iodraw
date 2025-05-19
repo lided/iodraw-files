@@ -31,7 +31,7 @@
         <mxCell id="rHtiXnrz9lkR5upwnhG0-33" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-245" y="37" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rHtiXnrz9lkR5upwnhG0-105" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="rHtiXnrz9lkR5upwnhG0-38" target="rHtiXnrz9lkR5upwnhG0-104" edge="1">
+        <mxCell id="rHtiXnrz9lkR5upwnhG0-105" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="rHtiXnrz9lkR5upwnhG0-38" target="rHtiXnrz9lkR5upwnhG0-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-107" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="rHtiXnrz9lkR5upwnhG0-105" vertex="1" connectable="0">
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="203" y="486" width="120" height="60" as="geometry" />
+          <mxGeometry x="199" y="501" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-98" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="rHtiXnrz9lkR5upwnhG0-39" target="rHtiXnrz9lkR5upwnhG0-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -64,22 +64,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;权限&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="688.3199999999999" y="690.6300000000001" width="124" height="60" as="geometry" />
+          <mxGeometry x="607.3199999999999" y="723.3800000000001" width="124" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-57" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;权限ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="905" y="750.6300000000001" width="120" height="80" as="geometry" />
+          <mxGeometry x="824" y="783.3800000000001" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;权限代码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="629" y="820.6300000000001" width="120" height="80" as="geometry" />
+          <mxGeometry x="548" y="853.3800000000001" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-59" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;描述&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="767" y="818.6300000000001" width="120" height="80" as="geometry" />
+          <mxGeometry x="686" y="851.3800000000001" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-60" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="rHtiXnrz9lkR5upwnhG0-61" target="rHtiXnrz9lkR5upwnhG0-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关联内容类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="905" y="650.6300000000001" width="120" height="80" as="geometry" />
+          <mxGeometry x="824" y="683.3800000000001" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-76" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="rHtiXnrz9lkR5upwnhG0-79" target="rHtiXnrz9lkR5upwnhG0-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -186,7 +186,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-104" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分配权限&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="428" y="579" width="124" height="80" as="geometry" />
+          <mxGeometry x="384" y="600" width="124" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rHtiXnrz9lkR5upwnhG0-111" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="rHtiXnrz9lkR5upwnhG0-109" target="rHtiXnrz9lkR5upwnhG0-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
