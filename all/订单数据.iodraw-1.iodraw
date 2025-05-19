@@ -217,8 +217,17 @@
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;货物重量&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1482" y="631" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dLdpLbsSRKiZoAWCCcTu-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;货物重量&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;运输费用&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1469" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;实例到达日期&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1459" y="825" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;实例到达日期&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1464" y="915" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-10" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="910" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
