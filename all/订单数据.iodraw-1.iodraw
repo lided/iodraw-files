@@ -214,6 +214,12 @@
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;运输距离&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="544" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;货物重量&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1482" y="631" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;货物重量&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1469" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
