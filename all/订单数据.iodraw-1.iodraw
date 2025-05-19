@@ -364,8 +364,11 @@
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-56" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="dLdpLbsSRKiZoAWCCcTu-54" target="dLdpLbsSRKiZoAWCCcTu-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dLdpLbsSRKiZoAWCCcTu-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;查看信息&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;预测&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1320" y="589" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-57" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;预测&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="583" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
