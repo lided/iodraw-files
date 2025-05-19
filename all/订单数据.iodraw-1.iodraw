@@ -205,8 +205,14 @@
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;订单ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1477" y="236" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dLdpLbsSRKiZoAWCCcTu-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;订单ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;出发城市&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="333" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;到达城市&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1489" y="434" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;到达城市&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1499" y="444" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
