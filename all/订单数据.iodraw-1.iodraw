@@ -288,7 +288,7 @@
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-32" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="dLdpLbsSRKiZoAWCCcTu-30" target="dLdpLbsSRKiZoAWCCcTu-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dLdpLbsSRKiZoAWCCcTu-30" value="查看信息" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;查看信息&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1010" y="305" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
