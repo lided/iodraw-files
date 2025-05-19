@@ -229,7 +229,7 @@
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;预计到达日期&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1464" y="915" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dLdpLbsSRKiZoAWCCcTu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLdpLbsSRKiZoAWCCcTu-11" target="dLdpLbsSRKiZoAWCCcTu-1">
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="dLdpLbsSRKiZoAWCCcTu-11" target="dLdpLbsSRKiZoAWCCcTu-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;出发日期&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
