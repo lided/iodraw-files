@@ -330,7 +330,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-44" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;线性回归预测&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;结果&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="731.32" y="798" width="120" height="80" as="geometry" />
+          <mxGeometry x="731.32" y="806" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-50" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="dLdpLbsSRKiZoAWCCcTu-45" target="dLdpLbsSRKiZoAWCCcTu-43">
           <mxGeometry relative="1" as="geometry" />
@@ -344,7 +344,7 @@
         <mxCell id="dLdpLbsSRKiZoAWCCcTu-46" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;移动平均预测&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;结果&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="897" y="977" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dLdpLbsSRKiZoAWCCcTu-52" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="dLdpLbsSRKiZoAWCCcTu-47">
+        <mxCell id="dLdpLbsSRKiZoAWCCcTu-52" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLdpLbsSRKiZoAWCCcTu-47" target="dLdpLbsSRKiZoAWCCcTu-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1013" y="778" as="targetPoint" />
           </mxGeometry>
